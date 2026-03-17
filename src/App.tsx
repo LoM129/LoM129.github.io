@@ -127,7 +127,7 @@ function App() {
             </p>
             <div className="flex gap-6 justify-center animate-fade-in opacity-0 [animation-delay:1200ms]">
               <a
-                href="https://github.com/milliam-mark"
+                href="https://github.com/LoM129"
                 className="group relative p-3 bg-deepSpace/50 rounded-full hover:bg-deepSpace/80 transition-all duration-300 border border-starWhite/10"
               >
                 <Github className="w-6 h-6 group-hover:text-nebulaPink transition-colors" />
@@ -216,20 +216,20 @@ function App() {
                           <div className="space-y-10">
                             <div className="bg-deepSpace/30 backdrop-blur-lg rounded-2xl border border-starWhite/10 p-8">
                               <h3 className="text-2xl font-semibold mb-2 text-nebulaPink">Arctic Digital Solutions Oy, Backend Developer</h3>
-                              <div className="text-starWhite/70 mb-2">03/2020 – 10/2025 | Finland</div>
+                              <div className="text-starWhite/70 mb-2">03/2021 – 10/2025 | Finland</div>
                               <ul className="list-disc pl-6 text-starWhite/80 space-y-2">
                                 <li>Responsible for architecture and development of distributed backend services and modern React-based applications.</li>
                                 <li>Architected Go-based microservices using gRPC, reducing inter-service latency by 45%.</li>
                                 <li>Designed Kafka-based event-driven workflows, improving system resilience and scalability.</li>
                                 <li>Implemented Redis caching strategy, reducing DB load by 40–50% and improving P99 latency by 60%.</li>
-                                <li>Increased backend throughput by 70% via concurrency optimization.</li>
+                                <li>Increased backend throughput by 25% via concurrency optimization.</li>
                                 <li>Built CI/CD pipelines and Dockerized services for zero-downtime deployments.</li>
                                 <li>Implemented Prometheus + Grafana monitoring, reducing incident detection time by 60%.</li>
                                 <li>Designed scalable React component architecture and improved frontend performance by 35%.</li>
                               </ul>
                             </div>
                             <div className="bg-deepSpace/30 backdrop-blur-lg rounded-2xl border border-starWhite/10 p-8">
-                              <h3 className="text-2xl font-semibold mb-2 text-cosmicBlue">Nordic Web Systems Oy, Web Developer</h3>
+                              <h3 className="text-2xl font-semibold mb-2 text-cosmicBlue">Self-Employed, Web Developer</h3>
                               <div className="text-starWhite/70 mb-2">09/2015 - 11/2019 | Finland</div>
                               <ul className="list-disc pl-6 text-starWhite/80 space-y-2">
                                 <li>Built backend systems from concept to production in Go, PHP, Python, later contributing to modernization efforts and improved engineering standards.</li>
@@ -258,21 +258,21 @@ function App() {
               image="https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?auto=format&fit=crop&q=80"
               tags={['Django', 'MySQL', 'Docker']}
               liveLink="https://kanishv.pythonanywhere.com/"
-              codeLink="https://github.com/kanish-v15/project-management-app"
+              codeLink="https://github.com/LoM129/project-management-app"
             />
             <ProjectCard
-              title="E-Commerce Application"
-              description="Full-featured e-commerce store with multi role user authentication functionality"
+              title="Tournament_Pro Application"
+              description="Full-featured matching game-time, place, teams store with multi role user authentication functionality"
               image="https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&q=80"
-              tags={['Django REST', 'Python', 'PostgreSQL']}
-              codeLink="https://github.com/kanish-v15/ecommerce-app"
+              tags={['REST API', 'Typescript', 'PostgreSQL']}
+              codeLink="https://github.com/LoM129/Tournament_Pro"
             />
             <ProjectCard
               title="Expense Tracker Application"
               description="Real time personal finance management tool with responsive reporting features"
               image="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80"
               tags={['Django', 'Chart.js', 'MySQL']}
-              codeLink="https://github.com/kanish-v15/expense-tracker-app"
+              codeLink="https://github.com/LoM129/expense-tracker-app"
             />
           </div>
         </div>
@@ -325,7 +325,7 @@ function App() {
               </p>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/milliam-mark"
+                  href="https://github.com/LoM129"
                   className="text-starWhite/70 hover:text-nebulaPink transition-colors"
                 >
                   <Github className="w-5 h-5" />
